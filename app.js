@@ -1,3 +1,5 @@
+//added 3 buy buttons still few bugs are need to solved like when items are zero it displays that item are 0 and adding same item will increase the quantity dont add new item
+
 const express = require('express')
 const cors = require('cors')
 
